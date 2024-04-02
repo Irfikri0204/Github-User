@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUser" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/lightTombol</item>
+        <item name="colorSecondary">@color/darkFloating</item>
+        <item name="colorTertiary">@color/lightFont</item>
+        <item name="colorOnPrimary">@color/darkFont</item>
+
+        <item name="statusBarBackground" >@color/black</item>
+        <item name="titleTextColor">@color/black</item>
+    </style>
+    <style name="loading" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:progressTint">@color/black</item>
+    </style>
+    <style name="Theme.GithubUser" parent="Base.Theme.GithubUser" />
+</resources>

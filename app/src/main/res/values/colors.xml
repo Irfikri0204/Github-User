@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="actionBar">#FF000000</color>
+    <color name="contentActionBar">#FFFFFFFF</color>
+    <color name="upBar">#423f3f</color>
+    <!-- Tema Terang-->
+    <color name="lightBackground">#F8F8F8</color>
+    <color name="lightTombol">#141414</color>
+    <color name="lightFloating">#C1C1C1</color>
+    <color name="lightCard">#E9E9E9</color>
+    <color name="lightFont">#FF000000</color>
+
+    <!-- Tema Gelap-->
+    <color name="darkBackground">#F8F8F8</color>
+    <color name="darkTombol">#141414</color>
+    <color name="darkFloating">#C1C1C1</color>
+    <color name="darkCard">#E9E9E9</color>
+    <color name="darkFont">#FFFFFFFF</color>
+
+</resources>
